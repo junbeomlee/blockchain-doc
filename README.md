@@ -7,7 +7,7 @@ It is a repository that summarizes what i studied in relation to the blockchain 
 
 - [Hyperledger Sawtooth](./sawtooth)
 - [IPFS](./ipfs)
-- [Simplicity](./Simplicity)
+- [Simplicity](./simplicity)
 - It-chain
 - Hyperledger Fabric
 - Bitcoin
